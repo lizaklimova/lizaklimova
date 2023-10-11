@@ -21,11 +21,16 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## **My stats:**
+**My stats:**
 
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lizaklimova&show_icons=true&theme=cobalt)
+
+---
+
 [![codewars](https://www.codewars.com/users/lizaklimovaaa/badges/large)](https://www.codewars.com/users/lizaklimovaaa)
+
+---
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizaklimovaaa)](https://github.com/anuraghazra/github-readme-stats)
