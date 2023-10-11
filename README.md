@@ -1,8 +1,13 @@
-# **Glad to see you here!** 🙂
+**Glad to see you here!** 🙂
 
-## **I'm Front-end developer** 🙋🏻‍♀️
+**I'm Front-end developer** 🙋🏻‍♀️
+I have a true passion to complex, but satisfying process of problem-solving during coding 🙌🏻
 
-## 📲 Contacts:
+Now I am open to collaborations and offers❗️
+
+---
+
+📲 _Contacts_:
 
 - [Email](mailto:elizabeth.klymova.dev@gmail.com) 📩
 - [Linkedin](https://www.linkedin.com/in/elibeth-klymova-frontend-dev/) 📌
@@ -10,7 +15,7 @@
 
 ---
 
-## **Main skills:**
+**Main skills:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
