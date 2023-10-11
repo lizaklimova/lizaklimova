@@ -10,7 +10,7 @@ Now I am open to collaborations and offers❗️
 📲 _Contacts_:
 
 - [Email](mailto:elizabeth.klymova.dev@gmail.com) 📩
-- [LinkedIn](https://www.linkedin.com/in/elibeth-klymova-frontend-dev/) 📌
+- [LinkedIn](https://www.linkedin.com/in/elizabeth-klymova-frontend-dev/) 📌
 - [Telegram](https://t.me/lizaklimovaaa) 📞
 
 ---
