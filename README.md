@@ -1,7 +1,7 @@
 **Glad to see you here!** 🙂
 
 **I'm Front-end developer** 🙋🏻‍♀️
-I have a true passion to complex, but satisfying process of problem-solving during coding 🙌🏻
+I have a true passion to complex, but satisfying process of problem-solving through coding 🙌🏻
 
 Now I am open to collaborations and offers❗️
 
