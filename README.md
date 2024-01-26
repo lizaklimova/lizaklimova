@@ -47,4 +47,4 @@ Now I am open to collaborations and offers❗️
 
 ---
 
-![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.svg)
