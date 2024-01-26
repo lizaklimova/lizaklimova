@@ -44,3 +44,7 @@ Now I am open to collaborations and offers❗️
 ---
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizaklimovaaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.gif)
