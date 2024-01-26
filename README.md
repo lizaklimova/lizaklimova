@@ -6,6 +6,7 @@ I have a true passion to complex, but satisfying process of problem-solving thro
 Now I am open to collaborations and offers❗️
 
 ---
+![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.svg)
 
 **📲 Contacts:**
 
@@ -45,6 +46,3 @@ Now I am open to collaborations and offers❗️
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizaklimovaaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.svg)
