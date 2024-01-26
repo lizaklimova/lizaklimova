@@ -16,8 +16,11 @@ Now I am open to collaborations and offers❗️
 ---
 
 **💻 Projects**
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=energy_react-app&theme=radical)](https://github.com/lizaklimova/energy_react-app)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=movies-search&theme=radical)](https://github.com/lizaklimova/movies-search)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=contacts-book&theme=radical)](https://github.com/lizaklimova/contacts-book)
 
 ---
