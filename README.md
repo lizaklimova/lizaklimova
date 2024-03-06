@@ -6,6 +6,7 @@ I have a true passion to complex, but satisfying process of problem-solving thro
 Now I am open to collaborations and offers❗️
 
 ---
+
 ![snake gif](https://github.com/lizaklimova/lizaklimova/blob/output/github-contribution-grid-snake.svg)
 
 **📲 Contacts:**
@@ -20,7 +21,7 @@ Now I am open to collaborations and offers❗️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=energy_react-app&theme=radical)](https://github.com/lizaklimova/energy_react-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=movies-search&theme=radical)](https://github.com/lizaklimova/movies-search)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=task-pro&theme=radical)](https://github.com/lizaklimova/task-pro)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=contacts-book&theme=radical)](https://github.com/lizaklimova/contacts-book)
 
@@ -45,4 +46,3 @@ Now I am open to collaborations and offers❗️
 ---
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizaklimovaaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
